@@ -1,1 +1,1 @@
-# B2-Luczak
+# TP réalisé en B2
